@@ -22,4 +22,28 @@
     padding:1pc;
  background-color:red ;   
 }
-div
+div{
+    color: azure;
+    font-weight: bold;
+    text-align: center;
+}
+body{
+    font-size: 16px;
+}
+#one{
+background-color: blue;
+width:50vw;
+height:50%;
+font-size: 2em;
+}
+#two{
+    background-color: red;
+    width:50vh;
+    height:50vw;
+    font-size: 2rem;
+}
+#three{
+    background-color: green;
+    width:50%;
+    height:50vh;        
+}
